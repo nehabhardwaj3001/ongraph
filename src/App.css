@@ -1,0 +1,54 @@
+
+.name{
+    text-align: center;
+    background:aqua;
+    font-size: xx-large;
+    margin: 5px;
+
+}
+
+.box {
+    text-align: center;
+    border: black ridge 1px;
+    border-radius: 10px;
+    margin: auto;
+    width: 20rem;
+    padding: 10px;
+  }
+
+  .container{
+      margin: auto;
+      padding: 10px;
+      justify-content: center;
+      text-align: center;
+      width: 50%;
+  }
+
+  .data-box{
+      margin: auto;
+
+  }
+
+  button{
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius:20px;
+  }
+
+  input[type=text] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 10px;
+    box-sizing: border-box;
+    border: none;
+    background-color: #3CBC8D;
+    color: white;
+  }
